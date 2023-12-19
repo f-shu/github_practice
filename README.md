@@ -1,2 +1,2 @@
 # github_practice
-feach
+fetch
